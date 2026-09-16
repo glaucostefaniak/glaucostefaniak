@@ -8,14 +8,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/glaucostefaniak/glaucostefaniak/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glaucostefaniak/glaucostefaniak/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/glaucostefaniak/glaucostefaniak/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
-
 <h4 data-importer="text" align="left">Atualmente estou estudando:</h4>
 
 ###
@@ -31,7 +23,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=89&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
